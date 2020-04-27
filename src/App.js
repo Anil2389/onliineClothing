@@ -5,10 +5,10 @@ import Homepage from './homepage.component'
 
 function App() {
   return (
-    <div>
+    <div className>
       <Homepage />
     </div>
   );
-}
+  }
 
 export default App;
